@@ -4,6 +4,8 @@
        "memory": "8gb",
        "storage": "32gb"
     }
+}
+{
     "name": "Azure Developer CLI with Terraform",
     "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
     "features": {
